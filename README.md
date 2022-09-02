@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hatice Korkmaz</h1>
-<h4 align="center">A passionate full-stack developer from Turkey</h4>
+<h4 align="center">A passionate full-stack developer from Turkey 🚀</h4>
 
 - 📫 How to reach me **hatice_hh-@hotmail.com**
 
